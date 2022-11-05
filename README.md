@@ -499,6 +499,6 @@ http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/3151
 http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/3152
 #EXTINF:0,LATINO FHD : TCM 
 #EXTGRP:unsorted
-http://185.234.217.179:8080/vipteste/ey6eJaKbbn/3841 #EXTINF:0,LATINO FHD: Golden edge 
+http://185.234.217.179:8080/vipteste/ey6eJaKbbn/3841 #EXTINF:0,LATINO FHD: " Golden edge *" 
 #EXTGRP:unsorted
 https://ok.ru/video/5947153063495
