@@ -1,358 +1,343 @@
 #EXTM3U
+#EXTINF:0,ARG DEP | ESPN 1 HD
+#EXTGRP:Deportes
+http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/3979
+#EXTINF:0,Latino | beIN Sports La Liga
+#EXTGRP:Deportes
+http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/57
 #EXTINF:0,DEPORTES | ESPN 2 MX
-#EXTGRP:unsorted
+#EXTGRP:Deportes
 http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/3969
+#EXTINF:0,ARG DEP | ESPN PLUS
+#EXTGRP:Deportes
+http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/3982
+#EXTINF:0,Latino | TUDN
+#EXTGRP:Deportes
+http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/160
+#EXTINF:0,DEPORTES | Espn Plus ARG
+#EXTGRP:Deportes
+http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/3971
+#EXTINF:0,COL DEP | ESPN 2
+#EXTGRP:Deportes
+http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/3991
+#EXTINF:0,ARG DEP | ESPN 2
+#EXTGRP:Deportes
+http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/3980
+#EXTINF:0,ARG DEP | ESPN 3
+#EXTGRP:Deportes
+http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/3981
 #EXTINF:0,DEPORTES | ESPN 1 MX
-#EXTGRP:unsorted
+#EXTGRP:Deportes
 http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/3968
 #EXTINF:0,DEPORTES | ESPN 3 MX
-#EXTGRP:unsorted
+#EXTGRP:Deportes
 http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/3970
-#EXTINF:0,DEPORTES | ESPN  2  ARG
-#EXTGRP:unsorted
-http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/3966
-#EXTINF:0,DEPORTES | FOX SPORTS  3 ARG
-#EXTGRP:unsorted
-http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/3974
+#EXTINF:0,COL DEP | ESPN
+#EXTGRP:Deportes
+http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/3990
 #EXTINF:0,DEPORTES | ESPN  3  ARG
-#EXTGRP:unsorted
+#EXTGRP:Deportes
 http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/3967
-#EXTINF:0,DEPORTES | FOX SPORTS  1 ARG
-#EXTGRP:unsorted
-http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/3972
-#EXTINF:0,DEPORTES | Espn Plus ARG
-#EXTGRP:unsorted
-http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/3971
-#EXTINF:0,DEPORTES | FOX SPORTS 2 MX
-#EXTGRP:unsorted
-http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/3976
+#EXTINF:0,COL DEP | ESPN 3
+#EXTGRP:Deportes
+http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/3992
+#EXTINF:0,ARG DEP | FOX SPORTS PREMIUM HD
+#EXTGRP:Deportes
+http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/3988
+#EXTINF:0,ARG DEP | FOX SPORTS PREMIUM FHD
+#EXTGRP:Deportes
+http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/3987
+#EXTINF:0,ARG DEP | FOX SPORTS  2
+#EXTGRP:Deportes
+http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/3984
+#EXTINF:0,DEPORTES | FOX SPORTS  3 ARG
+#EXTGRP:Deportes
+http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/3974
+#EXTINF:0,Latino | Affizionados
+#EXTGRP:Deportes
+http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/43
+#EXTINF:0,COL DEP | FOX SPORTS 2
+#EXTGRP:Deportes
+http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/3994
+#EXTINF:0,ARG DEP | FOX SPORTS  1 SD
+#EXTGRP:Deportes
+http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/3983
 #EXTINF:0,DEPORTES | FOX SPORTS  2 ARG
-#EXTGRP:unsorted
+#EXTGRP:Deportes
 http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/3973
-#EXTINF:0,ARG DEP | ESPN 1 HD
-#EXTGRP:unsorted
-http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/3979
+#EXTINF:0,DEPORTES | FOX SPORTS  1 ARG
+#EXTGRP:Deportes
+http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/3972
 #EXTINF:0,ARG DEP | FOX SPORTS 1
-#EXTGRP:unsorted
+#EXTGRP:Deportes
 http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/3986
 #EXTINF:0,DEPORTES | FOX SPORTS 3 MX
-#EXTGRP:unsorted
+#EXTGRP:Deportes
 http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/3977
-#EXTINF:0,ARG DEP | ESPN 2
-#EXTGRP:unsorted
-http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/3980
-#EXTINF:0,ARG DEP | FOX SPORTS  1 SD
-#EXTGRP:unsorted
-http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/3983
-#EXTINF:0,ARG DEP | FOX SPORTS  2
-#EXTGRP:unsorted
-http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/3984
-#EXTINF:0,ARG DEP | ESPN 3
-#EXTGRP:unsorted
-http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/3981
-#EXTINF:0,ARG DEP | ESPN PLUS
-#EXTGRP:unsorted
-http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/3982
-#EXTINF:0,ARG DEP | FOX SPORTS PREMIUM HD
-#EXTGRP:unsorted
-http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/3988
+#EXTINF:0,USA | TUDN EXTRA 11
+#EXTGRP:Deportes
+http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/1137
 #EXTINF:0,ARG DEP | FOX SPORTS  3
-#EXTGRP:unsorted
+#EXTGRP:Deportes
 http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/3985
-#EXTINF:0,ARG DEP | FOX SPORTS PREMIUM FHD
-#EXTGRP:unsorted
-http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/3987
-#EXTINF:0,COL DEP | ESPN
-#EXTGRP:unsorted
-http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/3990
-#EXTINF:0,ARG DEP | FOX SPORTS PREMIUM SD
-#EXTGRP:unsorted
-http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/3989
-#EXTINF:0,COL DEP | ESPN 3
-#EXTGRP:unsorted
-http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/3992
-#EXTINF:0,COL DEP | ESPN 2
-#EXTGRP:unsorted
-http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/3991
-#EXTINF:0,COL DEP | FOX SPORTS 2
-#EXTGRP:unsorted
-http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/3994
+#EXTINF:0,DEPORTES | FOX SPORTS 2 MX
+#EXTGRP:Deportes
+http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/3976
 #EXTINF:0,COL DEP | FOX SPORTS 1
-#EXTGRP:unsorted
+#EXTGRP:Deportes
 http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/3993
 #EXTINF:0,DEPORTES HD | FOX SPORTS PREMIUM
-#EXTGRP:unsorted
+#EXTGRP:Deportes
 http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/3996
 #EXTINF:0,COL DEP | FOX SPORTS 3
-#EXTGRP:unsorted
+#EXTGRP:Deportes
 http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/3995
-#EXTINF:0,PERU | AMERICA TV SD
-#EXTGRP:unsorted
-http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/3998
-#EXTINF:0,PERU | AMERICA TV 2
-#EXTGRP:unsorted
-http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/3997
 #EXTINF:0,HD HN | TIGO SPORTS
-#EXTGRP:unsorted
+#EXTGRP:Deportes
 http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/4094
-#EXTINF:0,Latino | AMC
-#EXTGRP:unsorted
-http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/44
-#EXTINF:0,Latino | Affizionados
-#EXTGRP:unsorted
-http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/43
-#EXTINF:0,Latino | AXN White
-#EXTGRP:unsorted
-http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/48
-#EXTINF:0,Latino | AZ Cinema
-#EXTGRP:unsorted
-http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/50
-#EXTINF:0,Latino | Canal 5
-#EXTGRP:unsorted
-http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/60
-#EXTINF:0,Latino | AZ Mundo
-#EXTGRP:unsorted
-http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/52
-#EXTINF:0,Latino | AXN
-#EXTGRP:unsorted
-http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/47
-#EXTINF:0,Latino | Azteca 7
-#EXTGRP:unsorted
-http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/54
-#EXTINF:0,HOND| TODO DEPORTES HD
-#EXTGRP:unsorted
-http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/4095
-#EXTINF:0,Latino | Boomerang
-#EXTGRP:unsorted
-http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/58
-#EXTINF:0,Latino | Azteca 1
-#EXTGRP:unsorted
-http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/53
-#EXTINF:0,Latino | beIN Sports
-#EXTGRP:unsorted
-http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/56
-#EXTINF:0,Latino | Cartoon Network
-#EXTGRP:unsorted
-http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/63
-#EXTINF:0,Latino | Canal 11
-#EXTGRP:unsorted
-http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/59
-#EXTINF:0,Latino | ADN40
-#EXTGRP:unsorted
-http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/42
-#EXTINF:0,Latino | AZ Corazon
-#EXTGRP:unsorted
-http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/51
-#EXTINF:0,Latino | beIN Sports La Liga
-#EXTGRP:unsorted
-http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/57
-#EXTINF:0,Latino | CNN en Espanol
-#EXTGRP:unsorted
-http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/67
-#EXTINF:0,COLOMBIA | Caracol
-#EXTGRP:unsorted
-http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/62
-#EXTINF:0,Latino | De Pelicula
-#EXTGRP:unsorted
-http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/69
-#EXTINF:0,Latino | Canal De Las Estrellas
-#EXTGRP:unsorted
-http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/61
-#EXTINF:0,Latino | Discovery en Espanol
-#EXTGRP:unsorted
-http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/72
-#EXTINF:0,Latino | HGTV
-#EXTGRP:unsorted
-http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/71
-#EXTINF:0,Latino | CineCanal
-#EXTGRP:unsorted
-http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/64
-#EXTINF:0,Latino | Cinemax
-#EXTGRP:unsorted
-http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/66
-#EXTINF:0,Latino | Discovery Channel
-#EXTGRP:unsorted
-http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/70
-#EXTINF:0,Latino | Discovery Familia
-#EXTGRP:unsorted
-http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/73
-#EXTINF:0,Latino | Discovery Kids
-#EXTGRP:unsorted
-http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/76
-#EXTINF:0,Latino | Discovery H&H
-#EXTGRP:unsorted
-http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/74
-#EXTINF:0,Latino | El Garage
-#EXTGRP:unsorted
-http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/87
-#EXTINF:0,Latino | Discovery World
-#EXTGRP:unsorted
-http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/81
-#EXTINF:0,Latino | Discovery Science
-#EXTGRP:unsorted
-http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/77
-#EXTINF:0,Latino | Discovery Theater
-#EXTGRP:unsorted
-http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/78
-#EXTINF:0,Latino | Discovery ID
-#EXTGRP:unsorted
-http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/75
-#EXTINF:0,Latino | Discovery Turbo
-#EXTGRP:unsorted
-http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/80
-#EXTINF:0,Latino | Disney Channel
-#EXTGRP:unsorted
-http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/82
-#EXTINF:0,Latino | Discovery TLC
-#EXTGRP:unsorted
-http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/79
-#EXTINF:0,Latino | Estrella TV
-#EXTGRP:unsorted
-http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/94
-#EXTINF:0,Latino | E!
-#EXTGRP:unsorted
-http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/86
-#EXTINF:0,Latino | El Gourmet
-#EXTGRP:unsorted
-http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/88
-#EXTINF:0,Latino | Universal Crime
-#EXTGRP:unsorted
-http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/98
-#EXTINF:0,Latino | Distrito Comedia
-#EXTGRP:unsorted
-http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/85
-#EXTINF:0,Latino | Un1versal Cinema
-#EXTGRP:unsorted
-http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/99
-#EXTINF:0,Latino | Food Network
-#EXTGRP:unsorted
-http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/95
-#EXTINF:0,Latino | Foro TV
-#EXTGRP:unsorted
-http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/96
-#EXTINF:0,Latino | Universal Reality
-#EXTGRP:unsorted
-http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/101
-#EXTINF:0,Latino | Universal Premier
-#EXTGRP:unsorted
-http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/103
 #EXTINF:0,Latino | FOX Sports
-#EXTGRP:unsorted
+#EXTGRP:Deportes
 http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/105
+#EXTINF:0,Latino | beIN Sports
+#EXTGRP:Deportes
+http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/56
 #EXTINF:0,Latino | FOX Sports 2
-#EXTGRP:unsorted
+#EXTGRP:Deportes
 http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/106
 #EXTINF:0,Latino | FOX Sports 3
-#EXTGRP:unsorted
+#EXTGRP:Deportes
 http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/107
+#EXTINF:0,Latino | TVC Deportes
+#EXTGRP:Deportes
+http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/162
+#EXTINF:0,Latino | TyC Sports
+#EXTGRP:Deportes
+http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/163
+#EXTINF:0,Latino | AMC
+#EXTGRP:Peliculas
+http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/44
+#EXTINF:0,Latino | CineCanal
+#EXTGRP:Peliculas
+http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/64
+#EXTINF:0,Latino | AZ Cinema
+#EXTGRP:Peliculas
+http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/50
+#EXTINF:0,Latino | Canal 5
+#EXTGRP:Peliculas
+http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/60
+#EXTINF:0,Latino | AXN White
+#EXTGRP:Peliculas
+http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/48
+#EXTINF:0,Latino | De Pelicula
+#EXTGRP:Peliculas
+http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/69
+#EXTINF:0,Latino | Cinemax
+#EXTGRP:Peliculas
+http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/66
+#EXTINF:0,Latino | Universal Reality
+#EXTGRP:Peliculas
+http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/101
+#EXTINF:0,Latino | Golden Plus
+#EXTGRP:Peliculas
+http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/117
+#EXTINF:0,Latino | HBO XTREME
+#EXTGRP:Peliculas
+http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/128
+#EXTINF:0,Latino | HBO POP
+#EXTGRP:Peliculas
+http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/129
+#EXTINF:0,Latino | Lifetime
+#EXTGRP:Peliculas
+http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/126
+#EXTINF:0,Latino | Estrella TV
+#EXTGRP:Peliculas
+http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/94
+#EXTINF:0,Latino | Universal Crime
+#EXTGRP:Peliculas
+http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/98
+#EXTINF:0,Latino | Un1versal Cinema
+#EXTGRP:Peliculas
+http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/99
+#EXTINF:0,Latino | Universal Premier
+#EXTGRP:Peliculas
+http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/103
+#EXTINF:0,Latino | HBO 2
+#EXTGRP:Peliculas
+http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/119
+#EXTINF:0,MOVISTAR ACCION
+#EXTGRP:Peliculas
+http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/3576
+#EXTINF:0,LATINO FHD : HBO MUNDI
+#EXTGRP:Peliculas
+http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/3148
+#EXTINF:0,LATINO FHD : HBO POP
+#EXTGRP:Peliculas
+http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/3149
+#EXTINF:0,LATINO FHD : HBO SIGNATURE
+#EXTGRP:Peliculas
+http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/3150
+#EXTINF:0,LATINO FHD : HBO SIGNATURE 
+#EXTGRP:Peliculas
+http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/3152
+#EXTINF:0,Latino | AXN
+#EXTGRP:Peliculas
+http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/47
 #EXTINF:0,Latino | FX
 #EXTGRP:unsorted
 http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/111
+#EXTINF:0,Latino | Disney Channel
+#EXTGRP:unsorted
+http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/82
+#EXTINF:0,Latino | E!
+#EXTGRP:unsorted
+http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/86
+#EXTINF:0,Latino | Discovery World
+#EXTGRP:unsorted
+http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/81
+#EXTINF:0,Latino | Discovery Turbo
+#EXTGRP:unsorted
+http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/80
+#EXTINF:0,Latino | HGTV
+#EXTGRP:unsorted
+http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/71
+#EXTINF:0,Latino | AZ Corazon
+#EXTGRP:unsorted
+http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/51
+#EXTINF:0,Latino | ADN40
+#EXTGRP:unsorted
+http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/42
+#EXTINF:0,Latino | Azteca 7
+#EXTGRP:unsorted
+http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/54
+#EXTINF:0,Latino | Azteca 1
+#EXTGRP:unsorted
+http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/53
+#EXTINF:0,Latino | Canal 11
+#EXTGRP:unsorted
+http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/59
+#EXTINF:0,Latino | Boomerang
+#EXTGRP:unsorted
+http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/58
+#EXTINF:0,Latino | Discovery en Espanol
+#EXTGRP:unsorted
+http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/72
+#EXTINF:0,Latino | AZ Mundo
+#EXTGRP:unsorted
+http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/52
+#EXTINF:0,Latino | CNN en Espanol
+#EXTGRP:unsorted
+http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/67
+#EXTINF:0,Latino | Canal De Las Estrellas
+#EXTGRP:unsorted
+http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/61
+#EXTINF:0,COLOMBIA | Caracol
+#EXTGRP:unsorted
+http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/62
+#EXTINF:0,Latino | Cartoon Network
+#EXTGRP:unsorted
+http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/63
+#EXTINF:0,Latino | Discovery H&H
+#EXTGRP:unsorted
+http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/74
+#EXTINF:0,Latino | Discovery Theater
+#EXTGRP:unsorted
+http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/78
+#EXTINF:0,Latino | El Garage
+#EXTGRP:unsorted
+http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/87
+#EXTINF:0,Latino | Discovery Kids
+#EXTGRP:unsorted
+http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/76
+#EXTINF:0,Latino | Discovery Science
+#EXTGRP:unsorted
+http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/77
+#EXTINF:0,Latino | El Gourmet
+#EXTGRP:unsorted
+http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/88
+#EXTINF:0,Latino | Discovery Familia
+#EXTGRP:unsorted
+http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/73
+#EXTINF:0,Latino | Discovery Channel
+#EXTGRP:unsorted
+http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/70
+#EXTINF:0,Latino | Distrito Comedia
+#EXTGRP:unsorted
+http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/85
+#EXTINF:0,Latino | Discovery TLC
+#EXTGRP:unsorted
+http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/79
+#EXTINF:0,Latino | Food Network
+#EXTGRP:unsorted
+http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/95
+#EXTINF:0,Latino | Discovery ID
+#EXTGRP:unsorted
+http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/75
+#EXTINF:0,Latino | Foro TV
+#EXTGRP:unsorted
+http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/96
 #EXTINF:0,Latino | Gala TV
 #EXTGRP:unsorted
 http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/113
-#EXTINF:0,Latino | Glitz
-#EXTGRP:unsorted
-http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/114
-#EXTINF:0,Latino | Gol TV
-#EXTGRP:unsorted
-http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/115
-#EXTINF:0,Latino | Golden Plus
-#EXTGRP:unsorted
-http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/117
-#EXTINF:0,Latino | HBO 2
-#EXTGRP:unsorted
-http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/119
-#EXTINF:0,Latino | HBO Family
-#EXTGRP:unsorted
-http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/120
-#EXTINF:0,Latino | HBO Plus
-#EXTGRP:unsorted
-http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/121
 #EXTINF:0,Latino | History 2
 #EXTGRP:unsorted
 http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/122
+#EXTINF:0,Latino | Glitz
+#EXTGRP:unsorted
+http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/114
 #EXTINF:0,Latino | Hola TV
 #EXTGRP:unsorted
 http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/124
-#EXTINF:0,Latino | Imagen
-#EXTGRP:unsorted
-http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/125
-#EXTINF:0,Latino | Lifetime
-#EXTGRP:unsorted
-http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/126
 #EXTINF:0,Latino | History Channel
 #EXTGRP:unsorted
 http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/123
-#EXTINF:0,Latino | HBO XTREME
-#EXTGRP:unsorted
-http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/128
-#EXTINF:0,Latino | HBO POP
-#EXTGRP:unsorted
-http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/129
 #EXTINF:0,Latino | Multimedios
 #EXTGRP:unsorted
 http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/131
-#EXTINF:0,Latino | Nat Geo Mundo
-#EXTGRP:unsorted
-http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/133
 #EXTINF:0,Latino | Nat Geo Wild
 #EXTGRP:unsorted
 http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/134
-#EXTINF:0,Latino | National Geographic
+#EXTINF:0,Latino | Nat Geo Mundo
 #EXTGRP:unsorted
-http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/135
-#EXTINF:0,Latino | HBO
-#EXTGRP:unsorted
-http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/118
-#EXTINF:0,Latino | Nick
-#EXTGRP:unsorted
-http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/136
+http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/133
 #EXTINF:0,Latino | Nick Jr
 #EXTGRP:unsorted
 http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/137
+#EXTINF:0,Latino | National Geographic
+#EXTGRP:unsorted
+http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/135
 #EXTINF:0,Latino | Nicktoons
 #EXTGRP:unsorted
 http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/138
-#EXTINF:0,Latino | Pasiones
+#EXTINF:0,Latino | HBO
 #EXTGRP:unsorted
-http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/139
+http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/118
 #EXTINF:0,Latino | Sony
 #EXTGRP:unsorted
 http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/143
-#EXTINF:0,Latino | Ritmoson
+#EXTINF:0,Latino | Nick
 #EXTGRP:unsorted
-http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/141
-#EXTINF:0,Latino | Space
+http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/136
+#EXTINF:0,Latino | Pasiones
 #EXTGRP:unsorted
-http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/144
-#EXTINF:0,Latino | Sundance
-#EXTGRP:unsorted
-http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/148
+http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/139
 #EXTINF:0,Latino | SyFy
 #EXTGRP:unsorted
 http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/149
-#EXTINF:0,Latino | Studio Universal
-#EXTGRP:unsorted
-http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/147
 #EXTINF:0,Latino | Starz
 #EXTGRP:unsorted
 http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/145
-#EXTINF:0,Latino | Showtime
-#EXTGRP:unsorted
-http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/142
 #EXTINF:0,Latino | Starz Encore
 #EXTGRP:unsorted
 http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/146
+#EXTINF:0,Latino | Showtime
+#EXTGRP:unsorted
+http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/142
 #EXTINF:0,COLOMBIA | RCN
 #EXTGRP:unsorted
 http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/140
 #EXTINF:0,Latino | TBS
 #EXTGRP:unsorted
 http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/150
-#EXTINF:0,Latino | TCM
-#EXTGRP:unsorted
-http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/151
 #EXTINF:0,Latino | Teleformula
 #EXTGRP:unsorted
 http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/152
@@ -362,66 +347,30 @@ http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/153
 #EXTINF:0,Latino | TLnovelas
 #EXTGRP:unsorted
 http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/155
-#EXTINF:0,Latino | TNT
-#EXTGRP:unsorted
-http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/156
-#EXTINF:0,Latino | TNT Series
-#EXTGRP:unsorted
-http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/157
-#EXTINF:0,Latino | Tooncast
-#EXTGRP:unsorted
-http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/158
-#EXTINF:0,Latino | TruTV
-#EXTGRP:unsorted
-http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/159
-#EXTINF:0,Latino | TUDN
-#EXTGRP:unsorted
-http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/160
-#EXTINF:0,Latino | TVC Deportes
-#EXTGRP:unsorted
-http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/162
-#EXTINF:0,Latino | TVC
-#EXTGRP:unsorted
-http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/161
-#EXTINF:0,Latino | TyC Sports
-#EXTGRP:unsorted
-http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/163
-#EXTINF:0,Latino | Unicable
-#EXTGRP:unsorted
-http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/173
 #EXTINF:0,Latino | Universal Channel
 #EXTGRP:unsorted
 http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/175
-#EXTINF:0,Latino | VH1
+#EXTINF:0,Latino | TNT Series
 #EXTGRP:unsorted
-http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/176
-#EXTINF:0,Latino | VH1 Classic
+http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/157
+#EXTINF:0,Latino | TruTV
 #EXTGRP:unsorted
-http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/177
+http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/159
+#EXTINF:0,Latino | Unicable
+#EXTGRP:unsorted
+http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/173
 #EXTINF:0,Latino | Warner
 #EXTGRP:unsorted
 http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/178
-#EXTINF:0,Latino | Win Sports
-#EXTGRP:unsorted
-http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/179
-#EXTINF:0,USA | TUDN EXTRA 11
-#EXTGRP:unsorted
-http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/1137
 #EXTINF:0,LATINO | Paramount
 #EXTGRP:unsorted
 http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/1141
 #EXTINF:0,LATINO | STAR CHANEL
 #EXTGRP:unsorted
 http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/3475
-#EXTINF:0,MOVISTAR ACCION
-#EXTGRP:unsorted
-http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/3576
 #EXTINF:0,MOVISTAR COMEDIA
 #EXTGRP:unsorted
 http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/3577
-#EXTINF:0,MOVISTAR DCINE
-#EXTGRP:unsorted
-http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/3578
 #EXTINF:0,MOVISTAR DISNEY
 #EXTGRP:unsorted
 http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/3579
@@ -434,71 +383,12 @@ http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/3581
 #EXTINF:0,MOVISTAR SERIEMANIA
 #EXTGRP:unsorted
 http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/3582
-#EXTINF:0,ULTRA FAMILIA
-#EXTGRP:unsorted
-http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/3585
-#EXTINF:0,CHILE | RETROPLUS 3
-#EXTGRP:unsorted
-http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/3783
-#EXTINF:0,RETRO PLUS 2
-#EXTGRP:unsorted
-http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/3784
-#EXTINF:0,CHILE | RETRO PLUS
-#EXTGRP:unsorted
-http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/3785
-#EXTINF:0,LATINO FHD : DISCOVERY TURBO
-#EXTGRP:unsorted
-http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/3130
-#EXTINF:0,LATINO FHD : ANIMAL PLANET
-#EXTGRP:unsorted
-http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/3131
-#EXTINF:0,LATINO FHD : DISCOVERY CHANNEL
-#EXTGRP:unsorted
-http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/3132
-#EXTINF:0,LATINO FHD : HGTV
-#EXTGRP:unsorted
-http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/3133
-#EXTINF:0,LATINO FHD : DISCOVERY FAMILIA
-#EXTGRP:unsorted
-http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/3134
-#EXTINF:0,LATINO FHD : DISCOVERY H&H
-#EXTGRP:unsorted
-http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/3135
-#EXTINF:0,LATINO FHD : DISCOVERY THEATHER
-#EXTGRP:unsorted
-http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/3137
 #EXTINF:0,LATINO FHD : FOX COMEDY (STAR COMEDY)
 #EXTGRP:unsorted
 http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/3139
+#EXTINF:0,LATINO FHD : DISCOVERY THEATHER
+#EXTGRP:unsorted
+http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/3137
 #EXTINF:0,LATINO FHD : UNIVERSAL CINEMA ( STAR CINEMA)
-#EXTGRP:unsorted
+#EXTGRP:
 http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/3144
-#EXTINF:0,LATINO FHD : HBO
-#EXTGRP:unsorted
-http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/3145
-#EXTINF:0,LATINO FHD : HBO 2
-#EXTGRP:unsorted
-http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/3146
-#EXTINF:0,LATINO FHD : HBO FAMILY
-#EXTGRP:unsorted
-http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/3147
-#EXTINF:0,LATINO FHD : HBO MUNDI
-#EXTGRP:unsorted
-http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/3148
-#EXTINF:0,LATINO FHD : HBO POP
-#EXTGRP:unsorted
-http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/3149
-#EXTINF:0,LATINO FHD : HBO SIGNATURE
-#EXTGRP:unsorted
-http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/3150
-#EXTINF:0,LATINO FHD : HBO PLUS
-#EXTGRP:unsorted
-http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/3151
-#EXTINF:0,LATINO FHD : HBO XTREME
-#EXTGRP:unsorted
-http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/3152
-#EXTINF:0,LATINO FHD : TCM 
-#EXTGRP:unsorted
-http://185.234.217.179:8080/vipteste/ey6eJaKbbn/3841 #EXTINF:0,LATINO FHD: " Golden edge *" 
-#EXTGRP:unsorted
-https://ok.ru/video/5947153063495
